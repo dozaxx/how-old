@@ -1,5 +1,5 @@
 .header {
-    color: white;
+    color: rgb(255, 255, 255);
     display: flex;
     justify-content: center;
     padding-top: 30px;
@@ -10,8 +10,9 @@
     max-width: 100%;
 }
 .headerText{
-  font-size: 80px;
+  font-size: 60px;
   margin: auto 0;
-  font-weight: bold;
+  font-family: 'Helvetica';
+  font-weight: 200;
   color: #eeeeee;
 }

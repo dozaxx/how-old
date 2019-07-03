@@ -7,13 +7,13 @@
   }
   
   .dropZone {
-    margin-top: 20px;
+    margin-top: 30px;
     margin-left: 5%;
     margin-right: 5%;
     padding-top: 5px;
     padding-bottom: 0px;
     height: 51vh;
-    background-color: #202125;
+    background-color: #2d3c72;
     border-radius: 20px;
     color: white;
   }
@@ -36,4 +36,6 @@
     justify-content: center;
     flex-direction: column;
     text-align: center;
+    color: rgb(255, 255, 255);
+    font-family: Helvetica;
   }
